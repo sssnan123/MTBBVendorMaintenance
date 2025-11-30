@@ -1,1 +1,1 @@
-# Open MTBB Change Request
+# Use this script to generate MTBB Change Request
